@@ -1,0 +1,49 @@
+{
+ "id": "com.hertn.halloweenmovies",
+ "version": "1.0.0",
+ "name": "Hert's Halloween List",
+ "description": "Hand-picked horror, thrillers and spooky fun, 2006 and earlier.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie"
+ ],
+ "idPrefixes": [
+  "tt"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "halloween",
+   "name": "Hert's Halloween List",
+   "extra": [
+    {
+     "name": "genre",
+     "options": [
+      "Hitchcock",
+      "Supernatural",
+      "Slasher",
+      "Thriller",
+      "Monsters & Zombies",
+      "Sci-Fi",
+      "Horror Comedy"
+     ],
+     "isRequired": false
+    }
+   ],
+   "genres": [
+    "Hitchcock",
+    "Supernatural",
+    "Slasher",
+    "Thriller",
+    "Monsters & Zombies",
+    "Sci-Fi",
+    "Horror Comedy"
+   ],
+   "extraSupported": [
+    "genre"
+   ]
+  }
+ ]
+}
