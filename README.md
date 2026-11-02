@@ -221,6 +221,5 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - The Nightmare Before Christmas (1993) - 7.9
 - Scooby-Doo on Zombie Island (1998) - 7.8
 - Monsters, Inc. (2001) - 8.1
-- Spirited Away (2001) - 8.6
 - Corpse Bride (2005) - 7.4
 - Wallace & Gromit: The Curse of the Were-Rabbit (2005) - 7.5
