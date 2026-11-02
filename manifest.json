@@ -1,6 +1,6 @@
 {
  "id": "com.hertn.halloweenmovies",
- "version": "1.0.0",
+ "version": "1.1.0",
  "name": "Hert's Halloween List",
  "description": "Hand-picked horror, thrillers and spooky fun, 2006 and earlier.",
  "resources": [
@@ -27,7 +27,8 @@
       "Thriller",
       "Monsters & Zombies",
       "Sci-Fi",
-      "Horror Comedy"
+      "Horror Comedy",
+      "Family"
      ],
      "isRequired": false
     }
@@ -39,7 +40,8 @@
     "Thriller",
     "Monsters & Zombies",
     "Sci-Fi",
-    "Horror Comedy"
+    "Horror Comedy",
+    "Family"
    ],
    "extraSupported": [
     "genre"
