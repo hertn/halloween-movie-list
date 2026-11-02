@@ -205,3 +205,22 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Shaun of the Dead (2004) - 7.8
 - Corpse Bride (2005) - 7.4
 - Scary Movie 4 (2006) - 5.1
+
+### Family
+
+- Abbott and Costello Meet Frankenstein (1948) - 7.3
+- It's the Great Pumpkin, Charlie Brown (1966) - 8.2
+- Ghostbusters (1984) - 7.8
+- Gremlins (1984) - 7.3
+- The Monster Squad (1987) - 6.9
+- Beetlejuice (1988) - 7.4
+- Edward Scissorhands (1990) - 7.8
+- The Addams Family (1991) - 7.0
+- Addams Family Values (1993) - 6.9
+- Hocus Pocus (1993) - 6.9
+- The Nightmare Before Christmas (1993) - 7.9
+- Scooby-Doo on Zombie Island (1998) - 7.8
+- Monsters, Inc. (2001) - 8.1
+- Spirited Away (2001) - 8.6
+- Corpse Bride (2005) - 7.4
+- Wallace & Gromit: The Curse of the Were-Rabbit (2005) - 7.5
