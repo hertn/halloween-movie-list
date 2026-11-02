@@ -1,10 +1,21 @@
-# Hert's Halloween List
+<p align="center">
+  <img src="icon.svg" width="88" height="88" alt="Halloween List icon">
+</p>
 
-Hand-picked horror, thrillers and spooky fun for Stremio: classics from 2006 and earlier, rated 6.9+ on IMDb (with a few favorites as exceptions).
+<h1 align="center">Hert's Halloween List</h1>
+
+<p align="center">Hand-picked horror, thrillers and spooky fun for Stremio.</p>
+
+<p align="center">
+  <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2Fhertn.github.io%2Fhalloween-movie-list%2Fmanifest.json"><img src="https://img.shields.io/badge/install-in%20Stremio-7b5cf0?style=flat&amp;labelColor=15181e" alt="Install in Stremio"></a>
+  <a href="https://ko-fi.com/hertn"><img src="https://img.shields.io/badge/support-%E2%9D%A4%20Ko--fi-ff5e5b?style=flat&amp;labelColor=15181e&amp;logo=kofi&amp;logoColor=white" alt="Support on Ko-fi"></a>
+</p>
+
+Classics from 2006 and earlier, rated 6.9+ on IMDb (with a few favorites as exceptions).
 
 ## Install
 
-In Stremio, open **Addons** and paste this link into the search bar:
+Press **Install in Stremio** above, or open **Addons** in Stremio and paste this link into the search bar:
 
 ```
 https://hertn.github.io/halloween-movie-list/manifest.json
@@ -223,3 +234,7 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Monsters, Inc. (2001) - 8.1
 - Corpse Bride (2005) - 7.4
 - Wallace & Gromit: The Curse of the Were-Rabbit (2005) - 7.5
+
+## Support
+
+This list is free. If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/hertn).
