@@ -230,7 +230,9 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Addams Family Values (1993) - 6.9
 - Hocus Pocus (1993) - 6.9
 - The Nightmare Before Christmas (1993) - 7.9
+- Casper (1995) - 6.2
 - Scooby-Doo on Zombie Island (1998) - 7.8
+- Halloweentown (1998) - 6.5
 - Monsters, Inc. (2001) - 8.1
 - Corpse Bride (2005) - 7.4
 - Wallace & Gromit: The Curse of the Were-Rabbit (2005) - 7.5
