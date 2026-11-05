@@ -1,8 +1,9 @@
 {
  "id": "com.hertn.halloweenmovies",
- "version": "1.1.0",
+ "version": "1.1.1",
  "name": "Hert's Halloween List",
  "description": "Hand-picked horror, thrillers and spooky fun, 2006 and earlier.",
+ "logo": "https://hertn.github.io/halloween-movie-list/icon.svg",
  "resources": [
   "catalog"
  ],
