@@ -2,7 +2,7 @@
  "id": "com.hertn.halloweenmovies",
  "version": "1.2.0",
  "name": "Hert's Halloween List",
- "description": "Hand-picked horror, thrillers and spooky fun, 2006 and earlier.",
+ "description": "162 hand-picked horror, thriller and spooky fun movies, 2006 and earlier.",
  "logo": "https://hertn.github.io/halloween-movie-list/icon.svg",
  "resources": [
   "catalog"

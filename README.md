@@ -4,7 +4,7 @@
 
 <h1 align="center">Hert's Halloween List</h1>
 
-<p align="center">Hand-picked horror, thrillers and spooky fun for Stremio.</p>
+<p align="center">162 hand-picked horror, thriller and spooky fun movies for Stremio.</p>
 
 <p align="center">
   <a href="https://web.stremio.com/#/addons?addon=https%3A%2F%2Fhertn.github.io%2Fhalloween-movie-list%2Fmanifest.json"><img src="https://img.shields.io/badge/install-in%20Stremio-7b5cf0?style=flat&amp;labelColor=15181e" alt="Install in Stremio"></a>
