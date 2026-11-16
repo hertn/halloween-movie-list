@@ -123,11 +123,9 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - The Silence of the Lambs (1991) - 8.6
 - Se7en (1995) - 8.6
 - The Game (1997) - 7.7
-- Audition (1999) - 7.1
 - Memento (2000) - 8.4
 - Donnie Darko (2001) - 8.0
 - Identity (2003) - 7.3
-- Saw (2004) - 7.6
 - The Machinist (2004) - 7.6
 - The Prestige (2006) - 8.5
 
