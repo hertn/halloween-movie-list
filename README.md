@@ -46,7 +46,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 
 ### Supernatural
 
-- Nosferatu (1922) - 7.8
 - Dracula (1931) - 7.3
 - Cat People (1942) - 7.2
 - The Innocents (1961) - 7.7
@@ -71,13 +70,10 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Bram Stoker's Dracula (1992) - 7.4
 - Interview with the Vampire (1994) - 7.5
 - The Frighteners (1996) - 7.1
-- Ringu (1998) - 7.2
 - Sleepy Hollow (1999) - 7.3
 - Stir of Echoes (1999) - 6.9
 - The Sixth Sense (1999) - 8.2
-- The Devil's Backbone (2001) - 7.3
 - The Others (2001) - 7.6
-- Pan's Labyrinth (2006) - 8.2
 
 ### Slasher
 
@@ -91,12 +87,16 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Scream (1996) - 7.4
 - Saw (2004) - 7.6
 
-### Thriller
+### Thriller (not spooky)
+
+Not Halloween films as such, but tense ones with a twist. Good for the nights between the scary ones.
 
 - The 39 Steps (1935) - 7.6
 - The Lady Vanishes (1938) - 7.7
 - Rebecca (1940) - 8.0
 - Shadow of a Doubt (1943) - 7.8
+- Gaslight (1944) - 7.8
+- Laura (1944) - 7.9
 - Lifeboat (1944) - 7.6
 - Spellbound (1945) - 7.5
 - Notorious (1946) - 7.9
@@ -104,30 +104,60 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Strangers on a Train (1951) - 7.9
 - Dial M for Murder (1954) - 8.1
 - Rear Window (1954) - 8.4
-- Les Diaboliques (1955) - 8.1
 - The Night of the Hunter (1955) - 7.9
+- Witness for the Prosecution (1957) - 8.4
 - Vertigo (1958) - 8.2
 - North by Northwest (1959) - 8.2
 - Peeping Tom (1960) - 7.6
 - Psycho (1960) - 8.5
 - Cape Fear (1962) - 7.7
 - What Ever Happened to Baby Jane? (1962) - 8.0
+- Charade (1963) - 7.8
+- Hush...Hush, Sweet Charlotte (1964) - 7.5
+- Bunny Lake Is Missing (1965) - 7.3
 - Repulsion (1965) - 7.5
+- Seconds (1966) - 7.6
 - Wait Until Dark (1967) - 7.7
 - Frenzy (1972) - 7.4
+- Sleuth (1972) - 7.9
+- The Last of Sheila (1973) - 7.2
 - The Wicker Man (1973) - 7.5
+- Murder on the Orient Express (1974) - 7.2
+- Dressed to Kill (1980) - 7.0
 - The Shining (1980) - 8.4
-- The Vanishing (1988) - 7.6
+- Body Heat (1981) - 7.4
+- Deathtrap (1982) - 7.0
+- Angel Heart (1987) - 7.2
+- No Way Out (1987) - 7.1
 - Jacob's Ladder (1990) - 7.4
 - Misery (1990) - 7.8
+- Presumed Innocent (1990) - 6.9
 - The Silence of the Lambs (1991) - 8.6
 - Se7en (1995) - 8.6
+- The Usual Suspects (1995) - 8.5
+- Primal Fear (1996) - 7.7
 - The Game (1997) - 7.7
+- The Spanish Prisoner (1997) - 7.1
+- Fallen (1998) - 7.0
+- Following (1998) - 7.4
+- Arlington Road (1999) - 7.2
+- Fight Club (1999) - 8.8
+- The Talented Mr. Ripley (1999) - 7.4
 - Memento (2000) - 8.4
+- Unbreakable (2000) - 7.3
 - Donnie Darko (2001) - 8.0
+- Frailty (2001) - 7.2
+- Mulholland Drive (2001) - 7.9
+- Vanilla Sky (2001) - 6.9
 - Identity (2003) - 7.3
+- The Butterfly Effect (2004) - 7.6
 - The Machinist (2004) - 7.6
+- Match Point (2005) - 7.6
+- Inside Man (2006) - 7.6
+- Lucky Number Slevin (2006) - 7.7
+- The Illusionist (2006) - 7.5
 - The Prestige (2006) - 8.5
+- Shutter Island (2010) - 8.2
 
 ### Monsters & Zombies
 
@@ -137,7 +167,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Bride of Frankenstein (1935) - 7.8
 - The Wolf Man (1941) - 7.2
 - Creature from the Black Lagoon (1954) - 6.9
-- Godzilla (1954) - 7.6
 - Them! (1954) - 7.2
 - The Birds (1963) - 7.6
 - Night of the Living Dead (1968) - 7.8
@@ -161,7 +190,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - 28 Days Later (2002) - 7.5
 - Shaun of the Dead (2004) - 7.8
 - The Descent (2005) - 7.2
-- The Host (2006) - 7.1
 
 ### Sci-Fi
 
@@ -234,7 +262,6 @@ Posters, descriptions and trailers come from Stremio's built-in Cinemeta. This a
 - Monsters, Inc. (2001) - 8.1
 - Corpse Bride (2005) - 7.4
 - Wallace & Gromit: The Curse of the Were-Rabbit (2005) - 7.5
-
 ## Support
 
 This list is free. If you enjoy it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/hertn).
